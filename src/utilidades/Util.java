@@ -35,4 +35,11 @@ public class Util {
             }
         }
     }
+
+    public static String LeerTexto(String msj) {
+        String texto = "";
+        System.out.print(msj + ": ");
+        texto = teclado.next();
+        return texto;
+    }
 }
