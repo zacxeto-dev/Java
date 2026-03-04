@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Empleado",
+            "request": "launch",
+            "mainClass": "arsistema.Empleado",
+            "projectName": "Proyecto_64a10daa"
+        },
+        {
+            "type": "java",
             "name": "Lista",
             "request": "launch",
             "mainClass": "arsistema.Lista",
