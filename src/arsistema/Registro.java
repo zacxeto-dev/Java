@@ -11,7 +11,7 @@ public class Registro {
                 "chato padilla",
                 87,
                 1.70,
-                123.33,
+                123.45,
                 false,
                 1);
 
